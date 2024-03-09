@@ -64,3 +64,7 @@ The exploratory data analysis (EDA) phase involves analyzing the FairFace datase
 - Matplotlib
 - OpenCV
 
+## DATASET AND MODEL FILES
+
+You can find dataset and models use in this project by visiting the link :
+`https://www.kaggle.com/mehmoodsheikh/datasets`
