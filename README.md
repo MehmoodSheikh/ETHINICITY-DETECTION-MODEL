@@ -1,8 +1,9 @@
-# FairFace Race Classification
+# ETHINICITY DETECTION MODEL
+
 
 ## Overview
 
-FairFace Race Classification is a project focused on classifying races using facial images from the FairFace dataset. The goal is to accurately identify the race of individuals depicted in images. This README provides a comprehensive overview of the project, including its purpose, dataset, models used, exploratory data analysis (EDA), setup instructions, and usage guide.
+Ethinicity detection model is a project focused on classifying races using facial images from the FairFace dataset. The goal is to accurately identify the race of individuals depicted in images. This README provides a comprehensive overview of the project, including its purpose, dataset, models used, exploratory data analysis (EDA), setup instructions, and usage guide.
 
 ## Purpose
 
